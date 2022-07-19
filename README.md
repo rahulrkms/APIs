@@ -1,6 +1,6 @@
 
 # About
-Here all  APIs of Quicky-Job_Android_App https://github.com/rahulrkms/Quicky-Job_Android_App
+It is the all  APIs of Quicky-Job_Android_App https://github.com/rahulrkms/Quicky-Job_Android_App
 
 You will recive all data in the json Format
 
